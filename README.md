@@ -18,13 +18,5 @@ If you already have it installed, make sure to update it to the latest state usi
 conda env update -f environment.yml
 ```
 
-
-## Run instructions
-
-To run the Flask server, please follow these steps: 
-1. Open a terminal window and navigate to the event-voting-tool directory
-2. Activate your `events` conda environment
-3. Start the flask server using `python src/server.py`
-4. You can access the project website in your browser by entering 	`localhost:8081` or `http://127.0.0.1:8081`
-
-
+## Run notebook demo
+To see the functionality of the `event_tools` api, please run the `event_management_demo.ipynb` jupyter notebook from start to end. 
